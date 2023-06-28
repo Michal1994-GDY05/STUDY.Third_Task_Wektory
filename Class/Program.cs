@@ -1,4 +1,4 @@
-﻿using Third_Task_Wektory;
+﻿using Third_Task_Wektory.Class;
 
 public class Wektor
 {

@@ -1,4 +1,4 @@
-﻿namespace Third_Task_Wektory
+﻿namespace Third_Task_Wektory.Main
 {
     internal class Obliczenia
     {
